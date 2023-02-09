@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Hello</h1>
+    <div class="logo"><img src="logo.png"></img></div>
     <p>On test le versionning</p>
 </body>  
 </html>
